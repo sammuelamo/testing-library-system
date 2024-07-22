@@ -1,5 +1,6 @@
 # Library Management System
-
+This is the link to the loom video recoding
+https://www.loom.com/share/a77c1662f28340ff952d8a07101b6485?sid=03ec753d-8411-4b38-8a25-58402c6ef290
 
 
 This is a simple library management system implemented in Java using JavaFX for the user interface and JDBC for database connectivity.
